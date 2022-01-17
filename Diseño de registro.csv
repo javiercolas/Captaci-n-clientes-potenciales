@@ -1,0 +1,34 @@
+Variable;Descripción
+id;Código de identificación
+tipo_empresa;Personalidad Jurídica o Física (Empresa, Persona y Organismo)
+codpostal;Código Postal
+municipio;Literal de municipio
+provincia;Literal de provincia
+comunidadautonoma;Literal de comunidad autónoma
+capitalpueblo;Clasificación del entorno basada en la cercanía a una capital de provincia
+enpoligono;Clasificación del entorno en función de la situación del negocio en un polígono industrial
+habitantes_municipio;Total población del municipio
+tipo_de_zona;Clasificación del entorno en función de indicadores de diferente naturaleza
+actcnae;Literal CNAE 2009
+mercado;Literal de Mercado Datacentric
+cnae_mercado;Literal de Mercado CNAE
+rangoventas;Clasificación basada en la facturación de la sede del negocio
+rangoempleados;Clasificación basada en los empleados de la sede del negocio
+numoficinas;Cantidad de oficinas que tiene un negocio
+tipooficina;Clasificación basasda en el número y la naturaleza de los centros de trabajo/venta/servicio
+anyofundacion;Año de fundación del negocio
+nse;Nivel socioeconómico del entorno del negocio
+tendenciaempleados;Tendencia del número de empelados
+tendenciaingresos;Tendencia de la facturación
+flotaturismos;Negocios con turismos
+flotafurgonetas;Negocios con furgonetas
+flotacamiones;Negocios con camiones
+flotaautobuses;Negocios con autobuses/autocares
+riesgo;Índice de riesgo asociado al negocio
+universo;Clasificación basada en el dinamismo económico de la empresa (activa o inactiva)
+existe_import;Negocios que importan
+existe_export;Negocios que exportan
+existe_importexport;Negocios que importan y exportan
+existe_email;Tenencia de email
+es_ecommerce;Tenencia de ecommerce
+impactos_publicidad;Impactos publicitarios que el cliente ha hecho sobre ese negocio
